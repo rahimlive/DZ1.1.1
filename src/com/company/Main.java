@@ -14,7 +14,7 @@ public class Main {
         if (temp > 30 || temp < -20 || age > 20 || age < 45 || age < 20 || temp > 0 || temp < 28 || age > 45 || temp > -10 || temp < 25) {
 
 
-
+asdas
             System.out.println("Не выходим Гулять");
         } else {
             System.out.println(("Идем в гости к Другу"));
